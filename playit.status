@@ -1,0 +1,783 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726876087561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876090633 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876093696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876096772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876099845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876102908 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876105972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876109044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876112185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876115257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876118336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876121398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876125437 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876128558 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876131625 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876134697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876137772 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876140844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876143912 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876146984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876150179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876153250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876156323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876159391 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876162456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876165528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876168601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876171690 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876174768 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876177837 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876180930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876184000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876187062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876190125 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876193188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876196291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876199360 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876202457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876205531 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876208607 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876211709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876214814 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876217896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876220974 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876224046 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876227118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876230188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876233247 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876236799 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876240104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876243239 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876246318 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876249387 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876252455 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876255631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876258712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876261792 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876264855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876267996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876271803 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876274883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876277949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876281085 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876284171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876287248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876290313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876293378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876296441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876300332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876303399 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876306475 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876309601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876312685 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876315748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876318819 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876323166 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876326233 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876329302 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876332987 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876336055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876339118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876342950 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876346026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876349106 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876352190 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876355281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876358351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876361423 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876364495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876367672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876370744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876373816 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876376883 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876379964 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876383683 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876386742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876389804 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876392880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876395956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876399029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876402142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876405214 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876408292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876411379 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876414443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876417523 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876420611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876423674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876427662 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876430739 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876433808 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876436886 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876439952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876443019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876446082 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876449162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876452237 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876455304 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876458378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876462155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876465218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876468291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876471355 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876474428 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876477490 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876481429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876484502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876487578 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876490754 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876493824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876496897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876499976 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876503041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876506114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876509177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876512263 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876515326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876518490 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876521584 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876524657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876527720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876530923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876533988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876537055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876540563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876543626 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876546686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876549757 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876552834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876555901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876558969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876562045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876565113 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876568185 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876571303 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726876574805 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+resource-detective.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
